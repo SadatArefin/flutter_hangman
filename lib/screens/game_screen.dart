@@ -284,7 +284,7 @@ class _GameScreenState extends State<GameScreen> {
                                                   ? "I"
                                                   : lives.toString(),
                                               style: TextStyle(
-                                                color: Color(0xFF2C1E68),
+                                                color: Color(0x680505FF),
                                                 fontSize: 20,
                                                 fontWeight: FontWeight.bold,
                                                 fontFamily: 'PatrickHand',

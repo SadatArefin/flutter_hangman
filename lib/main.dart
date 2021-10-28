@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
             color: Colors.white,
           ),
         ),
-        scaffoldBackgroundColor: Color(0xFF421b9b),
+        scaffoldBackgroundColor: Color(0xff1acb2e),
         textTheme: Theme.of(context).textTheme.apply(fontFamily: 'PatrickHand'),
       ),
       initialRoute: 'homePage',
